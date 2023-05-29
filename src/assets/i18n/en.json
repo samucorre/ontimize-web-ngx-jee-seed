@@ -18,5 +18,21 @@
   "REMEMBER_ME": "Remember me",
   "FORGOT_PWD": "Forgot your password?",
   "FOOTER_CREATED_BY": "Created by Imatia Innovation",
-  "FOOTER_RIGHTS": "All rights reserved"
+  "FOOTER_RIGHTS": "All rights reserved",
+  "CUSTOMERS" : "Customers",
+  "ID": "Id.",
+  "NAME": "Name",
+  "SURNAME": "Surname",
+  "STARTDATE": "Start date",
+  "EMAIL": "Email",
+  "PHOTO": "Photo",
+  "CUSTOMER_PERSONAL_INFORMATION": "Personal Information",
+  "CUSTOMERID": "Customer Id.",
+  "PHONE": "Phone",
+  "CUSTOMERTYPEID": "Customer type",
+  "ADDRESS": "Address",
+  "LONGITUDE": "Longitude",
+  "LATITUDE": "Latitude",
+  "COMMENTS": "Comments",
+  "NEW": "New"
 }

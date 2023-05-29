@@ -5,6 +5,7 @@ import { SERVICE_CONFIG } from './shared/app.services.config';
 
 export const CONFIG: Config = {
   // The base path of the URL used by app services.
+  // apiEndpoint: 'http://localhost:33333/',
   apiEndpoint: 'https://try.imatia.com/ontimizeweb/services/qsallcomponents-jee/services/rest',
   bundle: {
     path: 'bundle'
@@ -18,7 +19,7 @@ export const CONFIG: Config = {
   title: 'JEE seed',
 
   //  Language of the application.
-  locale: 'en',
+  locale: 'es',
 
   // The service type used (Ontimize REST standart, Ontimize REST JEE
   // or custom implementation) in the whole application.
